@@ -1,0 +1,15 @@
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/bin/Debug/net8.0/mis-221-lab-4-ktwright3
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/bin/Debug/net8.0/mis-221-lab-4-ktwright3.deps.json
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/bin/Debug/net8.0/mis-221-lab-4-ktwright3.runtimeconfig.json
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/bin/Debug/net8.0/mis-221-lab-4-ktwright3.dll
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/bin/Debug/net8.0/mis-221-lab-4-ktwright3.pdb
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.AssemblyInfoInputs.cache
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.AssemblyInfo.cs
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.csproj.CoreCompileInputs.cache
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.sourcelink.json
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.dll
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/refint/mis-221-lab-4-ktwright3.dll
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.pdb
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/mis-221-lab-4-ktwright3.genruntimeconfig.cache
+/Users/kalebwright/Documents/mis221/labs/mis-221-lab-4-ktwright3/obj/Debug/net8.0/ref/mis-221-lab-4-ktwright3.dll
